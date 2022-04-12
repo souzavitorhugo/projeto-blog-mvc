@@ -1,5 +1,13 @@
-# projeto-blog-mvc
-Esse é um projeto de um Blog completo em padrão MVC, CRUD com autenticações de usuários. Utilizarei tecnologias como PHP, HTML, CSS e JS.
+# Cyber Blog
 
-O projeto consiste em um blog para postagens de conteúdos de sua rede, para isso, é necessário construir uma aplicação com acesso controlado, porem permitindo que qualquer pessoa possa fazer o cadastro, criar e editar o blog exclusivamente o seu blog;
-No site principal, devemos exibir a postagem através do link da URL e também das ultimas postagens na home page;
+## Projeto principal do blog criado durante o 1° semetre de 2022
+
+Para utilização desse projeto se faz necessário algumas tecnologias, dentre elas:
+
+* PHP 7.2^
+* MariaDB ou MySQL
+* Composer 
+* Git
+
+ O projeto está em desenvolivmento e qualquer alteração pode acarretar em erros, aguarde a versão final. 
+ 
